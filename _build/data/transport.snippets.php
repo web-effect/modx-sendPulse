@@ -1,8 +1,8 @@
 <?php
 
 $sconfig=[
-    'sampleSnippet'=>[
-        'description'=>'SampleComponent snippet',
+    'sendpulse.hook'=>[
+        'description'=>'FormIt hook for sendpulse API using',
     ],
 ];
 

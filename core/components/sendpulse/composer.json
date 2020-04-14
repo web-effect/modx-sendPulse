@@ -1,0 +1,5 @@
+{
+    "require": {
+        "sendpulse/rest-api": "^10.0"
+    }
+}

@@ -14,11 +14,11 @@ switch ($options[xPDOTransport::PACKAGE_ACTION]) {
     case xPDOTransport::ACTION_UNINSTALL: break;
 }
 
-$output = '
+/*$output = '
 <div class="panel-desc">
     <p>Это опции компонента Simple</p>
 </div>
 <label for="sample-option">Опция:</label>
 <input type="text" name="sampleOption" id="sample-option" width="300" value="" />
-';
+';*/
 return $output;

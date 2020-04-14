@@ -1,2 +1,3 @@
 /_build/env.config.php
 /_build/includes/builder/*
+composer.phar

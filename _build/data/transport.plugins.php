@@ -6,13 +6,10 @@
 //var_dump($modx->map['modPluginEvent']);
 $pconfig=[
     'events'=>[
-        'MyCustomEvent'=>['groupname'=>'Sample CMP']
+        
     ],
     'plugins'=>[
-        'Sample'=>[
-            'description'=>'Sapmle of plugin',
-            'events'=>['OnLoadWebDocument','MyCustomEvent']
-        ],
+        
     ]
 ];
 
